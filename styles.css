@@ -131,7 +131,7 @@ p {
 }
 
 ol {
-    margin: 20px 15px;
+    margin: 15px 12px;
     padding: 0px 20px;
     font-size: 11px;
     line-height: 1.5;
@@ -155,7 +155,7 @@ ol {
 
 .personal_info{
     justify-content: center;
-    margin-top: 76px;
+    margin-top: 70px;
     margin-bottom: 10px;
     font-size: 11px;
     line-height: 1.8;
@@ -165,9 +165,11 @@ ol {
 }
 
 .personal_info img{
-    width: 15px;
-    height: 15px;
+    width: 17px;
+    height: 17px;
     margin-right: 5px;
+    margin-bottom: 5px;
+    padding-top: 3px;
     vertical-align: middle;
 }
 
@@ -179,7 +181,7 @@ ol {
 
 .signature {
     text-align: center;
-    margin-top: 70px;
+    margin-top: 60px;
 }
 
 .signature hr {
