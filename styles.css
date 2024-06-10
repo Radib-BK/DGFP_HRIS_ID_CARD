@@ -22,7 +22,8 @@ body {
     align-items: center;
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    padding: 20px;
+    padding: 0px;
+    border-radius: 14px;
     gap: 30px;
 }
 
@@ -36,7 +37,7 @@ body {
     padding: 20px;
     border: #000 3px solid;
     border-radius: 14px;
-    width: 305.8px;
+    width: 315.8px;
     height: 489.6px;
 }
 
@@ -50,7 +51,7 @@ body {
     padding: 20px;
     border: #000 3px solid;
     border-radius: 14px;
-    width: 305.8px;
+    width: 315.8px;
     height: 489.6px;
 }
 
